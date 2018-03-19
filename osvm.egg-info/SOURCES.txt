@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+osvm/Test.py
+osvm/osvm.py
+osvm/tdsvm.py
+osvm.egg-info/PKG-INFO
+osvm.egg-info/SOURCES.txt
+osvm.egg-info/dependency_links.txt
+osvm.egg-info/requires.txt
+osvm.egg-info/top_level.txt

@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: osvm
+Version: 1.3.0
+Summary: Detection of Online Impersonation based on User Profiling in Social Networks through Optimized SVM
+Home-page: https://github.com/ChristelJunco/THESIS-Junco-Sampiano
+Author: Christel Junco, Charlotte Sampiano
+Author-email: christeltheresejunco@gmail.com,charlotte_sampiano@umindanao.edu.ph
+License: MIT
+Download-URL: https://github.com/ChristelJunco/THESIS-Junco-Sampiano
+Description-Content-Type: UNKNOWN
+Description: Detection of Online Impersonation based on User Profiling in Social Networks through Optimized SVM
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Visualization
